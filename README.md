@@ -1,6 +1,6 @@
 # Metaverse
 
-Movie App project with cards about movies received from API.
+Website about virtual reality product.
 
 Stack:
 
