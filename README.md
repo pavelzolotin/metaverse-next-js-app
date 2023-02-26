@@ -1,6 +1,6 @@
 # Metaverse
 
-Website about virtual reality product.
+App about VR devices built with Next.js.
 
 Stack:
 
